@@ -12,12 +12,12 @@ Aplicativo desktop simples com duas funcoes:
 ## Arquivos
 
 ```text
-stopwatch-pyqt5/
+cronometro/
 ├── assets/
 │   └── cronometro-preview.png
 ├── README.md
 ├── requirements.txt
-└── stopwatch_pyqt5.py
+└── Cronometro.py
 ```
 
 ## Requisitos
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ## Execucao
 
 ```bash
-python3 stopwatch_pyqt5.py
+python3 Cronometro.py
 ```
 
 ## Controles
